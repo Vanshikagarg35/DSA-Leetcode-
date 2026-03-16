@@ -4,7 +4,7 @@ public:
         int y = x;
         string palin = to_string(y);
         reverse(palin.begin(),palin.end());
-        return x==stoll(palin);
+        return to_string(x)==(palin);
 
     }
 };
