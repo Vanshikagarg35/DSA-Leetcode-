@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/Vanshikagarg35/DSA/tree/master/0587-erect-the-fence) |
 | [0735-asteroid-collision](https://github.com/Vanshikagarg35/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vanshikagarg35/DSA/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Vanshikagarg35/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/Vanshikagarg35/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vanshikagarg35/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vanshikagarg35/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0456-132-pattern](https://github.com/Vanshikagarg35/DSA/tree/master/0456-132-pattern) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Vanshikagarg35/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vanshikagarg35/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vanshikagarg35/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vanshikagarg35/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
