@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/Vanshikagarg35/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2122-count-special-quadruplets](https://github.com/Vanshikagarg35/DSA/tree/master/2122-count-special-quadruplets) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Vanshikagarg35/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vanshikagarg35/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Vanshikagarg35/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vanshikagarg35/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2122-count-special-quadruplets](https://github.com/Vanshikagarg35/DSA/tree/master/2122-count-special-quadruplets) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Vanshikagarg35/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vanshikagarg35/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vanshikagarg35/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Vanshikagarg35/DSA/tree/master/2685-first-completely-painted-row-or-column) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vanshikagarg35/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Vanshikagarg35/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vanshikagarg35/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vanshikagarg35/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vanshikagarg35/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Vanshikagarg35/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Combinatorics
 |  |
 | ------- |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vanshikagarg35/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vanshikagarg35/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Vanshikagarg35/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -428,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Vanshikagarg35/DSA/tree/master/0456-132-pattern) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Vanshikagarg35/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Divide and Conquer
 |  |
 | ------- |
