@@ -10,9 +10,11 @@ public:
             if(arr[mid] < x) start = mid + 1;
             else end = mid - 1;
         }
+        
         int i = start - 1;
         int j = start;
         int count = 0;
+
         while(count < k) {
             if (i < 0) {
                 result.push_back(arr[j]);
