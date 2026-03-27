@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vanshikagarg35/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vanshikagarg35/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vanshikagarg35/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Vanshikagarg35/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vanshikagarg35/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Vanshikagarg35/DSA/tree/master/0456-132-pattern) |
 | [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vanshikagarg35/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Vanshikagarg35/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Vanshikagarg35/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vanshikagarg35/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0768-partition-labels](https://github.com/Vanshikagarg35/DSA/tree/master/0768-partition-labels) |
 | [0859-buddy-strings](https://github.com/Vanshikagarg35/DSA/tree/master/0859-buddy-strings) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Vanshikagarg35/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vanshikagarg35/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Vanshikagarg35/DSA/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Vanshikagarg35/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
 | [0658-find-k-closest-elements](https://github.com/Vanshikagarg35/DSA/tree/master/0658-find-k-closest-elements) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
