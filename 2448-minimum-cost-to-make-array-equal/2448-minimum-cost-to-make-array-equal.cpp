@@ -27,6 +27,6 @@ public:
                 ans = cost1;
             }
         } 
-        return getCost(nums, cost, start); 
+        return ans; 
     }
 };
