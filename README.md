@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshikagarg35/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Vanshikagarg35/DSA/tree/master/0131-palindrome-partitioning) |
 | [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
 | [0868-push-dominoes](https://github.com/Vanshikagarg35/DSA/tree/master/0868-push-dominoes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vanshikagarg35/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Vanshikagarg35/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Vanshikagarg35/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Vanshikagarg35/DSA/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/Vanshikagarg35/DSA/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/Vanshikagarg35/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Vanshikagarg35/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vanshikagarg35/DSA/tree/master/0344-reverse-string) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vanshikagarg35/DSA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Vanshikagarg35/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Vanshikagarg35/DSA/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/Vanshikagarg35/DSA/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |
 | ------- |
