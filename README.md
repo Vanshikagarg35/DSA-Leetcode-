@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vanshikagarg35/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Vanshikagarg35/DSA/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Vanshikagarg35/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vanshikagarg35/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vanshikagarg35/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Vanshikagarg35/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Vanshikagarg35/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Vanshikagarg35/DSA/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/Vanshikagarg35/DSA/tree/master/0498-diagonal-traverse) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Vanshikagarg35/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1677-matrix-diagonal-sum](https://github.com/Vanshikagarg35/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vanshikagarg35/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Vanshikagarg35/DSA/tree/master/2685-first-completely-painted-row-or-column) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Vanshikagarg35/DSA/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Vanshikagarg35/DSA/tree/master/0658-find-k-closest-elements) |
 | [1018-largest-perimeter-triangle](https://github.com/Vanshikagarg35/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Vanshikagarg35/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vanshikagarg35/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vanshikagarg35/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vanshikagarg35/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
