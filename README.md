@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vanshikagarg35/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1677-matrix-diagonal-sum](https://github.com/Vanshikagarg35/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vanshikagarg35/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Vanshikagarg35/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/Vanshikagarg35/DSA/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanshikagarg35/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vanshikagarg35/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Vanshikagarg35/DSA/tree/master/0868-push-dominoes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vanshikagarg35/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vanshikagarg35/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Vanshikagarg35/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Recursion
 |  |
 | ------- |
