@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vanshikagarg35/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vanshikagarg35/DSA/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Vanshikagarg35/DSA/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/Vanshikagarg35/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vanshikagarg35/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vanshikagarg35/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vanshikagarg35/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Vanshikagarg35/DSA/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/Vanshikagarg35/DSA/tree/master/0174-dungeon-game) |
 | [0498-diagonal-traverse](https://github.com/Vanshikagarg35/DSA/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Vanshikagarg35/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vanshikagarg35/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanshikagarg35/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Vanshikagarg35/DSA/tree/master/0131-palindrome-partitioning) |
+| [0174-dungeon-game](https://github.com/Vanshikagarg35/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Vanshikagarg35/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vanshikagarg35/DSA/tree/master/0300-longest-increasing-subsequence) |
