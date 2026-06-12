@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Vanshikagarg35/DSA/tree/master/0868-push-dominoes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vanshikagarg35/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/Vanshikagarg35/DSA/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/Vanshikagarg35/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Vanshikagarg35/DSA/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vanshikagarg35/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vanshikagarg35/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Vanshikagarg35/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vanshikagarg35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Vanshikagarg35/DSA/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/Vanshikagarg35/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/Vanshikagarg35/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vanshikagarg35/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vanshikagarg35/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
