@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vanshikagarg35/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vanshikagarg35/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0647-palindromic-substrings](https://github.com/Vanshikagarg35/DSA/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Vanshikagarg35/DSA/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/Vanshikagarg35/DSA/tree/master/0768-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Vanshikagarg35/DSA/tree/master/0844-backspace-string-compare) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Vanshikagarg35/DSA/tree/master/0368-largest-divisible-subset) |
 | [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/Vanshikagarg35/DSA/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/Vanshikagarg35/DSA/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/Vanshikagarg35/DSA/tree/master/0868-push-dominoes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vanshikagarg35/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/Vanshikagarg35/DSA/tree/master/1048-longest-string-chain) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Vanshikagarg35/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/Vanshikagarg35/DSA/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/Vanshikagarg35/DSA/tree/master/0520-detect-capital) |
+| [0647-palindromic-substrings](https://github.com/Vanshikagarg35/DSA/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Vanshikagarg35/DSA/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/Vanshikagarg35/DSA/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/Vanshikagarg35/DSA/tree/master/0796-rotate-string) |
