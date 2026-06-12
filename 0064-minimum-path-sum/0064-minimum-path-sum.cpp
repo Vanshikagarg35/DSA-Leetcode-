@@ -3,18 +3,20 @@ public:
     int minPathSum(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        vector<vector<int>>t(m+1,vector<int>(n+1,-1));
-        return solve(0,0,grid,m,n,t);
+        vector<vector<int>>t(m+1,vector<int>(n+1,1e9));
+        return solve(grid,m,n, t);
     }
-    int solve(int i, int j, vector<vector<int>>& grid , int m, int n, vector<vector<int>>& t){
-        if(i<0 || j<0 || i>=m || j>=n){
-            return 1e9;;
+    int solve(vector<vector<int>> &grid,int m, int n, vector<vector<int>>& t){
+        for(int i=1; i<m+1; i++){
+            for(int j=1; j<n+1; j++){
+                if(i==1 && j==1) t[1][1] = grid[0][0];
+                else{
+                    int right = grid[i-1][j-1] + t[i-1][j];
+                    int down = grid[i-1][j-1] + t[i][j-1];
+                    t[i][j] = min(right , down);
+                }
+            }
         }
-        if(i==m-1 && j==n-1) return grid[i][j];
-        if(t[i][j]!=-1) return t[i][j];
-
-        int right = grid[i][j]+solve(i+1, j,grid, m, n, t);
-        int down = grid[i][j]+solve(i, j+1,grid, m, n, t);
-        return t[i][j]=min(right , down);
+        return t[m][n];
     }
 };
