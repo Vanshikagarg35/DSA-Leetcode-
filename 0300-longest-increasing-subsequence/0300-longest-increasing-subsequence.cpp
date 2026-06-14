@@ -1,29 +1,29 @@
 class Solution {
 public:
-    int n;
-    int t[2501][2501];
-    int lis(vector<int>& nums, int prev_idx, int curr_idx) {
-       if(curr_idx == n)
-           return 0;
-        
-        if(prev_idx != -1 && t[prev_idx][curr_idx] != -1)
-            return t[prev_idx][curr_idx];
-        
-        int taken = 0;
-        if(prev_idx == -1 || nums[curr_idx] > nums[prev_idx])
-            taken = 1 + lis(nums, curr_idx, curr_idx+1);
-        
-        int not_taken = lis(nums, prev_idx, curr_idx+1);
-        
-        if(prev_idx != -1)
-            t[prev_idx][curr_idx] =  max(taken, not_taken);
-        
-        return max(taken, not_taken);
-            
-    }
     int lengthOfLIS(vector<int>& nums) {
-        memset(t, -1, sizeof(t));
-        n = nums.size();
-        return lis(nums, -1, 0);
+        int n = nums.size();
+        vector<vector<int>> t(n + 1, vector<int>(n + 1, -1));
+        return solve(nums, t, -1, 0, n);
+    }
+    
+    int solve(vector<int>& nums, vector<vector<int>>& t, int previdx, int curridx, int n){
+        if(curridx == n) return 0;
+        
+        if(previdx != -1 && t[previdx][curridx] != -1){
+            return t[previdx][curridx];
+        }
+        
+        int taken=0;
+        if(previdx == -1 || nums[curridx] > nums[previdx]){
+            taken = 1 + solve(nums, t, curridx, curridx + 1, n);
+        }
+        
+        int notaken = solve(nums, t, previdx, curridx + 1, n);
+        
+        if(previdx != -1){
+            t[previdx][curridx] = max(taken, notaken);
+        }
+        
+        return max(taken, notaken);
     }
 };
