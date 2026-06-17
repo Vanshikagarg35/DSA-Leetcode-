@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanshikagarg35/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vanshikagarg35/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Vanshikagarg35/DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vanshikagarg35/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2390-removing-stars-from-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vanshikagarg35/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Vanshikagarg35/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vanshikagarg35/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
 |  |
