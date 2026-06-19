@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vanshikagarg35/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vanshikagarg35/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1677-matrix-diagonal-sum](https://github.com/Vanshikagarg35/DSA/tree/master/1677-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Vanshikagarg35/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vanshikagarg35/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Vanshikagarg35/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/Vanshikagarg35/DSA/tree/master/1929-concatenation-of-array) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Vanshikagarg35/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vanshikagarg35/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vanshikagarg35/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Vanshikagarg35/DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
