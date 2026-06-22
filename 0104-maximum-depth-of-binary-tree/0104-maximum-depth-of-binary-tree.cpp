@@ -1,25 +1,23 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
-public:
-    int countMax(TreeNode* root){
-        if(root==NULL)return 0;
-        int leftcount = countMax(root->left);
-        int rightcount= countMax(root->right);
-        return max(leftcount,rightcount)+1;
-
+    void countMax(TreeNode* root, int currentCount, int &maxCount) {
+        if (root == nullptr) {
+            return;
+        }
+        
+        currentCount++;
+        
+        if (currentCount > maxCount) {
+            maxCount = currentCount;
+        }
+        
+        countMax(root->left, currentCount, maxCount);
+        countMax(root->right, currentCount, maxCount);
     }
+
+public:
     int maxDepth(TreeNode* root) {
-        return countMax(root);
-     
+        int maxCount = 0;
+        countMax(root, 0, maxCount);
+        return maxCount;
     }
 };
