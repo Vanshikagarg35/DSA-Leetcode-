@@ -11,16 +11,15 @@
  */
 class Solution {
 public:
-    int countMax(TreeNode* root,int count){
+    int countMax(TreeNode* root){
         if(root==NULL)return 0;
-        int leftcount = countMax(root->left, count);
-        int rightcount= countMax(root->right, count);
+        int leftcount = countMax(root->left);
+        int rightcount= countMax(root->right);
         return max(leftcount,rightcount)+1;
 
     }
     int maxDepth(TreeNode* root) {
-        int count=0;
-        count = countMax(root, 0);
-        return count;
+        return countMax(root);
+     
     }
 };
