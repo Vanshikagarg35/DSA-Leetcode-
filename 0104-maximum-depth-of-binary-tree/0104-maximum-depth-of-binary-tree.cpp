@@ -11,35 +11,16 @@
  */
 class Solution {
 public:
+    int countMax(TreeNode* root,int count){
+        if(root==NULL)return 0;
+        int leftcount = countMax(root->left, count);
+        int rightcount= countMax(root->right, count);
+        return max(leftcount,rightcount)+1;
+
+    }
     int maxDepth(TreeNode* root) {
-        queue<TreeNode*> q;
-        int count = 0;
-        
-        if (root != nullptr) {
-            q.push(root);
-        } else {
-            return 0;
-        }
-        
-        while (!q.empty()) {
-            int size = q.size();
-            
-            for (int i = 0; i < size; i++) {
-                TreeNode* temp = q.front();
-                q.pop();
-                
-                if (temp->left != nullptr) {
-                    q.push(temp->left);
-                }
-                if (temp->right != nullptr) {
-                    q.push(temp->right);
-                }
-            }
-            
-            count++;
-        }
-        
+        int count=0;
+        count = countMax(root, 0);
         return count;
     }
-    
 };
