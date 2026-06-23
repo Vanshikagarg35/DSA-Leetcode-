@@ -1,47 +1,37 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
+#include <vector>
+#include <algorithm> // max_element ke liye
+
+using namespace std;
+
 class Solution {
 public:
+    
+    void traverse(TreeNode* root, int level, vector<vector<int>>& ans){
+        if(root == NULL) return;
+        
+        if(ans.size() == level) {
+            ans.push_back(vector<int>());
+        }
+        
+        ans[level].push_back(root->val);
+        
+        
+        traverse(root->left, level + 1, ans);
+        traverse(root->right, level + 1, ans);
+    }
+    
     vector<int> largestValues(TreeNode* root) {
-         vector<int> ans;
+        vector<vector<int>> ans;
+        vector<int> result;
         
-        if (root == nullptr) {
-            return ans;
+        traverse(root, 0, ans);
+        
+        for(int i = 0; i < ans.size(); i++){
+            
+            int maxl = *max_element(ans[i].begin(), ans[i].end());
+            result.push_back(maxl);
         }
         
-        queue<TreeNode*> q;
-        q.push(root);
-        
-        while (!q.empty()) {
-            int size = q.size();
-            int max_val = INT_MIN;
-            
-            for (int i = 0; i < size; i++) {
-                TreeNode* temp = q.front();
-                q.pop();
-                
-                max_val = max(max_val, temp->val);
-                
-                if (temp->left != nullptr) {
-                    q.push(temp->left);
-                }
-                if (temp->right != nullptr) {
-                    q.push(temp->right);
-                }
-            }
-            
-            ans.push_back(max_val);
-        }
-        
-        return ans;
+        return result;
     }
 };
