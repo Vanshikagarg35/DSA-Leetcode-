@@ -1,26 +1,40 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
+        int i=0;
+        int j=0;
+        int baskets = 0;
+        int count=0;
+        int maxC = 0;
         unordered_map<int,int>mp;
-        int i = 0;
-        int j = 0;
-        int count = 0;
-        int maxcount = 0;
         while(j<fruits.size()){
-            mp[fruits[j]]++;
-            while(mp.size()>2){
-                mp[fruits[i]]--;
-                if(mp[fruits[i]]==0){
-                    mp.erase(fruits[i]);
+            // Agar 2 baskets bhari hain aur ek naya fruit aaya hai
+            if(baskets==2 && mp.find(fruits[j])==mp.end()){
+                while(mp.size()!=1){
+                    mp[fruits[i]]--;
+                    if(mp[fruits[i]]==0) {
+                        mp.erase(fruits[i]);
+                        baskets--; // Aapka logic: Fruit khatam, basket khali hui
+                    }
+                    i++;
+                    count--;
                 }
-                i++;
-                count--;
-
+                
+                baskets++; // Naya fruit add ho raha hai, toh basket wapas bhari
+                mp[fruits[j]]++;
+                j++;
+                count++;
+                maxC = max(count , maxC);
+                
             }
-            count++;
-            maxcount = max(maxcount, count);
-            j++;
+            else{
+                if(mp.find(fruits[j])==mp.end()) baskets++;
+                mp[fruits[j]]++;
+                j++;
+                count++;
+                maxC = max(maxC , count);
+            }
         }
-        return maxcount;
+        return maxC;
     }
 };
