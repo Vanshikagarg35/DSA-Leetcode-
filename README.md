@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Vanshikagarg35/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vanshikagarg35/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vanshikagarg35/DSA/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Vanshikagarg35/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vanshikagarg35/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Vanshikagarg35/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -696,6 +697,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Vanshikagarg35/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vanshikagarg35/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vanshikagarg35/DSA/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Vanshikagarg35/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vanshikagarg35/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Vanshikagarg35/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Vanshikagarg35/DSA/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
