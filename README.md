@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Vanshikagarg35/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/Vanshikagarg35/DSA/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vanshikagarg35/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vanshikagarg35/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vanshikagarg35/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vanshikagarg35/DSA/tree/master/2117-find-original-array-from-doubled-array) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Vanshikagarg35/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/Vanshikagarg35/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vanshikagarg35/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vanshikagarg35/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vanshikagarg35/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Vanshikagarg35/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Vanshikagarg35/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vanshikagarg35/DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vanshikagarg35/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vanshikagarg35/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vanshikagarg35/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vanshikagarg35/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vanshikagarg35/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vanshikagarg35/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
