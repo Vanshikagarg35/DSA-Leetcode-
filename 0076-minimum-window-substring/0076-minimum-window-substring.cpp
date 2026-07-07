@@ -1,33 +1,44 @@
 class Solution {
 public:
-    bool zeroOne(vector<int> &counter){
-        for(int &i : counter){
-            if(i>0) return false;
-
-        }
-        return true;
-    }
     string minWindow(string s, string t) {
-        int i = 0;
-        int j = 0;
-        int minSize =INT_MAX;
-        int minStart=0;
-        vector<int>counter(128,0);
-        for(int i = 0; i<t.length(); i++){
-            counter[t[i]]++;
+        if (s.length() < t.length()) return "";
+
+        unordered_map<char, int> mp;
+        for (char c : t) {
+            mp[c]++;
         }
-        while(j<s.length()){
-            counter[s[j]]--;
-            while(zeroOne(counter)){
-                if(j - i + 1 < minSize){
-                    minSize = j - i + 1;
-                    minStart = i;
+
+        int required = mp.size();
+        int i = 0, j = 0;
+        int minLen = INT_MAX;
+        int startIdx = 0;
+
+        while (j < s.length()) {
+            if (mp.find(s[j]) != mp.end()) {
+                mp[s[j]]--;
+                if (mp[s[j]] == 0) {
+                    required--;
                 }
-                counter[s[i]]++;
+            }
+
+            while (required == 0) {
+                if (j - i + 1 < minLen) {
+                    minLen = j - i + 1;
+                    startIdx = i;
+                }
+
+                if (mp.find(s[i]) != mp.end()) {
+                    mp[s[i]]++;
+                    if (mp[s[i]] > 0) {
+                        required++;
+                    }
+                }
                 i++;
             }
             j++;
         }
-        return minSize == INT_MAX? "":s.substr(minStart,minSize);
+
+        if (minLen == INT_MAX) return "";
+        return s.substr(startIdx, minLen);
     }
 };
