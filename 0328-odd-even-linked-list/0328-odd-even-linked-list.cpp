@@ -10,20 +10,35 @@
  */
 class Solution {
 public:
-    ListNode* oddEvenList(ListNode* head) {  
-        if(head == NULL || head->next == NULL)
-            return head;    
-        ListNode* ODD  = head;
-        ListNode* EVEN = head->next;   
-        ListNode* evenStart = head->next;  
-        while(EVEN != NULL && EVEN->next != NULL) {
-            ODD->next  = EVEN->next;
-            EVEN->next = EVEN->next->next;    
-            ODD  = ODD->next;
-            EVEN = EVEN->next;
+    ListNode* oddEvenList(ListNode* head) {
+        ListNode* temp = head;
+        int count=0;
+        vector<int>evenIdx;
+        vector<int>oddIdx;
+        while(temp!=NULL){
+            if(count%2==0){
+                evenIdx.push_back(temp->val);
+            }
+            else{
+                oddIdx.push_back(temp->val);
+            }
+            temp=temp->next;
+            count++;
+
         }
-        ODD->next = evenStart;    
+        temp = head;
+        while(temp!=NULL){
+            int m = evenIdx.size();
+            for(int i=0; i<m; i++){
+                temp->val = evenIdx[i];
+                temp=temp->next;
+            }
+            int n = oddIdx.size();
+            for(int i=0; i<n; i++){
+                temp->val = oddIdx[i];
+                temp = temp->next;
+            }
+        }
         return head;
-        
     }
 };
