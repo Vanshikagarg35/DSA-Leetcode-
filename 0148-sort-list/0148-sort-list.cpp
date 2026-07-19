@@ -3,24 +3,41 @@ public:
     ListNode* sortList(ListNode* head) {
         if (!head || !head->next) return head;
         
-        vector<int> vals;
-        ListNode* curr = head;
+        ListNode* slow = head;
+        ListNode* fast = head->next;
         
-        while (curr != NULL) {
-            vals.push_back(curr->val);
-            curr = curr->next;
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
         
-        sort(vals.begin(), vals.end());
+        ListNode* mid = slow->next;
+        slow->next = nullptr;
         
-        curr = head;
-        int i = 0;
-        while (curr != NULL) {
-            curr->val = vals[i];
-            curr = curr->next;
-            i++;
+        ListNode* left = sortList(head);
+        ListNode* right = sortList(mid);
+        
+        return merge(left, right);
+    }
+    
+    ListNode* merge(ListNode* l1, ListNode* l2) {
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
+        
+        while (l1 && l2) {
+            if (l1->val < l2->val) {
+                tail->next = l1;
+                l1 = l1->next;
+            } else {
+                tail->next = l2;
+                l2 = l2->next;
+            }
+            tail = tail->next;
         }
         
-        return head;
+        if (l1) tail->next = l1;
+        if (l2) tail->next = l2;
+        
+        return dummy.next;
     }
 };
