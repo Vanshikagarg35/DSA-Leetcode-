@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vanshikagarg35/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Vanshikagarg35/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vanshikagarg35/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vanshikagarg35/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vanshikagarg35/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vanshikagarg35/DSA/tree/master/0202-happy-number) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Vanshikagarg35/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Vanshikagarg35/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vanshikagarg35/DSA/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Vanshikagarg35/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vanshikagarg35/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vanshikagarg35/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0229-majority-element-ii) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Vanshikagarg35/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vanshikagarg35/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vanshikagarg35/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vanshikagarg35/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vanshikagarg35/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vanshikagarg35/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/Vanshikagarg35/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vanshikagarg35/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Vanshikagarg35/DSA/tree/master/0191-number-of-1-bits) |
 ## Interactive
@@ -729,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Vanshikagarg35/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vanshikagarg35/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Vanshikagarg35/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
